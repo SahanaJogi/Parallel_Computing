@@ -1,0 +1,7 @@
+In x64 native tools command prompt:
+
+cd /d "D:\4MW23CS126
+
+cl filename.c msmpi.lib
+
+mpiexec -n 2 filename.exe
